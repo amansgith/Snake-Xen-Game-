@@ -58,6 +58,11 @@ h1{
 
 @media screen and (max-width: 768px){
 
+
+    body{
+        overflow: hidden;
+    }
+    
     .container{
         flex-direction: column;
         justify-content: flex-start;
