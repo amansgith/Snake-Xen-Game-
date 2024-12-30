@@ -1,4 +1,5 @@
-# Snake-Xen-Game-
+# Snake-Xen-Game
+Live Play link: https://amansgith.github.io/Snake-Xen-Game-/
 A Simple Snake Game made using HTML, CSS and Javascript
 
 ## can play on mobile also :)
